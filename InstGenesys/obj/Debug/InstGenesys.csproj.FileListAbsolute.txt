@@ -1,0 +1,17 @@
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\bin\Debug\InstGenesys.exe.config
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\bin\Debug\InstGenesys.exe
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\bin\Debug\InstGenesys.pdb
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\InstGenesys.csprojResolveAssemblyReference.cache
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\MainWindow.g.cs
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\App.g.cs
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\InstGenesys_MarkupCompile.cache
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\InstGenesys_MarkupCompile.lref
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\MainWindow.baml
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\InstGenesys.g.resources
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\InstGenesys.Properties.Resources.resources
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\InstGenesys.csproj.GenerateResource.Cache
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\InstGenesys.csproj.CoreCompileInputs.cache
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\InstGenesys.exe
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\obj\Debug\InstGenesys.pdb
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mamdouh\source\repos\InstGenesys\InstGenesys\bin\Debug\Newtonsoft.Json.xml

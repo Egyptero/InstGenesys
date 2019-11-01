@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27009.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CXConnect.Desktop.Modules.InstGenesys", "InstGenesys\CXConnect.Desktop.Modules.InstGenesys.csproj", "{5C661A8A-64A5-4074-89BA-C0444069D0D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C661A8A-64A5-4074-89BA-C0444069D0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C661A8A-64A5-4074-89BA-C0444069D0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C661A8A-64A5-4074-89BA-C0444069D0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C661A8A-64A5-4074-89BA-C0444069D0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB585D44-3AB2-4BFC-8AD2-010889757D25}
+	EndGlobalSection
+EndGlobal

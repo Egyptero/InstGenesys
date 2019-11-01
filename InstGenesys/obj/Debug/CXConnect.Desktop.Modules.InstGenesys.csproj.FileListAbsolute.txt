@@ -1,0 +1,106 @@
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\bin\Debug\InstGenesys.exe.config
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\bin\Debug\InstGenesys.exe
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\bin\Debug\InstGenesys.pdb
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\MainWindow.g.cs
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\App.g.cs
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\InstGenesys_MarkupCompile.cache
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\InstGenesys_MarkupCompile.lref
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\MainWindow.baml
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\InstGenesys.g.resources
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\InstGenesys.Properties.Resources.resources
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.csproj.GenerateResource.Cache
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\InstGenesys.exe
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\InstGenesys\InstGenesys\obj\Debug\InstGenesys.pdb
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\CXConnect.Desktop.Modules.InstGenesys.exe
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\CXConnect.Desktop.Modules.InstGenesys.exe.config
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\MainWindow.g.cs
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\App.g.cs
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys_MarkupCompile.cache
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys_MarkupCompile.lref
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\MainWindow.baml
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.g.resources
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.Properties.Resources.resources
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.csproj.GenerateResource.Cache
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.exe
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.pdb
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\CXConnect.Desktop.Modules.InstGenesys.pdb
+C:\Program Files (x86)\GCTI\Workspace Desktop Edition\Samples\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.csprojResolveAssemblyReference.cache
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\CXConnect.Desktop.Modules.InstGenesys.module-config
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\CXConnect.Desktop.Modules.InstGenesys.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\CXConnect.Desktop.Modules.InstGenesys.pdb
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Desktop.Infrastructure.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Desktop.Modules.Core.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Desktop.Modules.Windows.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Desktop.WPFCommon.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Commons.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Lucene.Net.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Microsoft.Practices.Composite.Wpf.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Tomers.WPF.Localization.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\log4net.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Commons.Collections.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Configuration.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Model.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Core.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Agent.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Services.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Commons.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Services.Outbound.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Commons.Connection.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.ApplicationBlocks.WarmStandby.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Broker.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Contacts.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Services.Presence.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Reporting.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Exceptions.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Core.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Extensions.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Services.Multimedia.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Interaction.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Framework.StateMachine.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Services.Contact.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.OpenMedia.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.SwitchAbstraction.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\NHunspell.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Logger.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Voice.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Utility.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.SwitchPolicy.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Framework.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Management.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.EspEmail.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Outbound.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Routing.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Platform.Commons.Collections.Binding.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Protocols.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Genesyslab.Enterprise.Services.Common.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\InstGenesysView.g.cs
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys_MarkupCompile.cache
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys_MarkupCompile.lref
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\InstGenesysView.baml
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.g.resources
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.Properties.Resources.resources
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.csproj.GenerateResource.Cache
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.csproj.CoreCompileInputs.cache
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.dll
+C:\Users\Mamdouh\source\repos\CXConnect.Desktop.Modules.InstGenesys\InstGenesys\obj\Debug\CXConnect.Desktop.Modules.InstGenesys.pdb
